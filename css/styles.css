@@ -108,7 +108,8 @@ a:hover {
 
 .bottom-cloud {
     position:absolute;
-    left:20px;
+    left:40px;
+    margin-top:0;
 
 }
 
