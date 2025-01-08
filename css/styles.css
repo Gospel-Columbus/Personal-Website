@@ -104,12 +104,16 @@ a:hover {
     position:absolute;
     right:40px;
     top:40px;
+    width:5%;
 }
 
 .bottom-cloud {
     position:absolute;
-    left:40px;
+    left:60px;
     margin-top:0;
+    width:5%;
+    
+    
 
 }
 
@@ -135,8 +139,7 @@ a:hover {
 
 
 .mountain {
-    width:400px;
-    height:400px;
+    width:25%;
 }
 
 .btn {
